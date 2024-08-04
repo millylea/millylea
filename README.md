@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @millylea - Thao Le
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Java, Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Testing
 - 📫 How to reach me thaominlea@gmail.com
 - ⚡ Fun fact: I tried to use API automation testing framework to test HTML response and boy, it was a headache, It worked btw
 
